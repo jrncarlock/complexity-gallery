@@ -6,6 +6,6 @@
 
 
 <center>
-<img src="https://github.com/jrncarlock/complexity-gallery/blob/main/logistic_map/shade.png" width="600"/>
+<img src="https://github.com/jrncarlock/complexity-gallery/blob/main/logistic_map/shade.png" width="570"/>
 </center>
 
